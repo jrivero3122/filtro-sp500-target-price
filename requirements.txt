@@ -3,4 +3,4 @@ yfinance
 beautifulsoup4
 pandas
 requests
-lxlm
+lxml
